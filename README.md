@@ -64,7 +64,7 @@ Perfil Educacional dos Clientes por Cluster
 
 ![image](https://github.com/user-attachments/assets/8932e7d1-e3c5-4889-aacb-856342df8b0b)
 
-# Resumo com base nas análises realizadas no dataset de crédito, alguns pontos importantes foram observados:
+# Resumo de outros pontos importantes que foram observados:
 
 - Os clientes com limites de crédito mais altos são, em sua maioria, homens.
 - As mulheres predominam entre os clientes com limites mais baixos.
